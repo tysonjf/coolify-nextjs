@@ -1,9 +1,5 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## About
-NOTE if you are using pnpm, Nixpack requires you to specify a version of pnpm in your package.json file. This is because Nixpack uses the pnpm version specified in your package.json file to install the correct version of pnpm in the Nixpack environment. If you do not specify a version of pnpm in your package.json file, Nixpack will default to using the latest version of pnpm. To specify a version of pnpm in your package.json file, add the following line to your package.json file:
-"packageManager": "pnpm@9.1.1",
-
 ## Getting Started
 
 First, run the development server:
